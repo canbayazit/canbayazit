@@ -249,6 +249,8 @@
   /></a>  
 </p>
 
+
+
 <p align="left">
   <img
     align="left"
@@ -256,7 +258,7 @@
     alt="canbayazit"
   />
   <img
-    align="right"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=canbayazit&show_icons=true&theme=tokyonight&locale=en"
     alt="canbayazit"
   />
