@@ -251,4 +251,4 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canbayazit&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="canbayazit" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canbayazit&show_icons=true&theme=tokyonight&locale=en" alt="canbayazit" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canbayazit&show_icons=true&theme=tokyonight&locale=en" alt="canbayazit" /></p>
