@@ -220,7 +220,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https:/www.linkedin.com/in/canbayazit/"
+    href="https://www.linkedin.com/in/canbayazit/"
     target="blank"
     ><img
       align="center"
@@ -238,7 +238,7 @@
       width="40"
   /></a>
   <a
-    href="https://www.hackerrank.com/https://www.hackerrank.com/canbayazitt?hr_r=1"
+    href="https://www.hackerrank.com/canbayazitt?hr_r=1"
     target="blank"
     ><img
       align="center"
