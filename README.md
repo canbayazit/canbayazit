@@ -241,3 +241,17 @@
   /></a>  
 </p>
 
+
+
+<p align="left">
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=canbayazit&show_icons=true&theme=tokyonight&locale=en&layout=compact"
+    alt="canbayazit"
+  />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=canbayazit&show_icons=true&theme=tokyonight&locale=en"
+    alt="canbayazit"
+  />
+</p>
