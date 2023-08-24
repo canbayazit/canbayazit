@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Can</h1>
 
-- 🔭 I’m currently working on Front-End technologies like **React, Angular**
+- 🔭 I’m currently working on Front-End technologies like **React, Angular, Java**
 
 - 🌱 I’m currently learning **Next.JS, React Native, Java**
 
