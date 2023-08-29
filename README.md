@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Full-Stack technologies like **Angular, Java**
 
 - 🌱 I’m currently learning **Next.JS, React Native**
-- 
+
 - ✨ I have a strong knowledge in these technologies such as **React.JS, Angular, Java**
 
 <h3 align="left">Languages and Tools:</h3>
