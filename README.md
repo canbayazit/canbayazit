@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Can</h1>
 
-- 🔭 I’m currently working on Front-End technologies like **React, Angular, Java**
+- 🔭 I’m currently working on Full-Stack technologies like **Angular, Java**
 
-- 🌱 I’m currently learning **Next.JS, React Native, Java**
-
+- 🌱 I’m currently learning **Next.JS, React Native**
+- 
+- ✨ I have a strong knowledge in these technologies such as **React.JS, Angular, Java**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
