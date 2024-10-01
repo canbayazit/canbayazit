@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Can</h1>
+# Hi there! 👋 I'm Can!
 
 ## 🚀 Technologies & Tools
 
