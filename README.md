@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Can!
 
+Welcome to my coding universe! 🚀 I'm passionate about crafting interactive, dynamic, and visually engaging web applications. Here’s a bit about me and what I love working with:
+
 ## 🚀 Technologies & Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
