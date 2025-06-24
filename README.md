@@ -21,12 +21,6 @@ Welcome to my coding universe! 🚀 I'm passionate about crafting interactive, d
 
 ---
 
-### 🌱 Currently Learning:
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-
----
-
 ### 💻 A little bit more about me:
 - 💡 Exploring new frameworks and pushing the boundaries of web design.
 - 🎯 Constantly improving my skills in React Native and Next.js.
