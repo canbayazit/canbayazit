@@ -23,7 +23,7 @@ Welcome to my coding universe! 🚀 I'm passionate about crafting interactive, d
 
 ### 💻 A little bit more about me:
 - 💡 Exploring new frameworks and pushing the boundaries of web design.
-- 🎯 Constantly improving my skills in React Native and Next.js.
+- 🎯 Constantly improving my skills in Full Stack Development
 - 🧩 Love problem-solving and working on complex systems.
 - 🎨 Keen eye for UI/UX, making sure everything looks and feels just right!
 
