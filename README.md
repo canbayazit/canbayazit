@@ -20,9 +20,6 @@ Welcome to my coding universe! 🚀 I'm passionate about crafting interactive, d
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-00A67E?logo=openai&logoColor=white&style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-FFAE00?logo=huggingface&logoColor=black&style=for-the-badge)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?logo=googlegemini&logoColor=white&style=for-the-badge)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?logo=google&logoColor=white&style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/-Gemini-000000?logo=googlegemini&logoColor=8E75FF&style=for-the-badge)
 ---
 
