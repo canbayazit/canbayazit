@@ -14,6 +14,8 @@ Welcome to my coding universe! 🚀 I'm passionate about crafting interactive, d
 ![Java](https://img.shields.io/badge/-Java-F89820?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-F89820?logo=java&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-F89820?logo=openjdk&logoColor=white&style=for-the-badge&logoWidth=30)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
